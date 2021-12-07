@@ -98,6 +98,8 @@ def detector():
 
 if __name__ == "__main__":
     detector()
+    print('sadadas')
+    print('sadasdas')
     # im = cv2.imread('data/images/bus.jpg')
     # im = cv2.cvtColor(im,cv2.COLOR_BGR2RGB)
     # im = im.transpose(2,0,1)
